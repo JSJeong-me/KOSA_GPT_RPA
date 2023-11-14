@@ -1,8 +1,15 @@
-# KOSA_GPT_RPA
+# GPT와 RPA를 활용한 업무 자동화 과정
+
+### 강의교안:        https://zrr.kr/5Xrq
+### WorkSheet:        https://zrr.kr/147j
+
+`````
+□ 과정명 : GPT와 RPA를 활용한 업무 자동화 과정
+
+□ 교육기간 : 11월 16~17일(목, 금요일) (10:00 ~ 15:00, 점심시간 12:00~13:00) 
+
+□ 교육방법 : 실시간 온라인 교육(Zoom)
+`````
 
 
-KOSA_G![gpt-RPA](https://github.com/JSJeong-me/KOSA_GPT_RPA/assets/54794815/733be19b-6b05-42a0-a545-b45167739bac)
-
-
-
-![8ca6b769-a699-4b5a-aad0-ee999dacbb91](https://github.com/JSJeong-me/KOSA_GPT_RPA/assets/54794815/10c36457-29c1-4323-8d82-2300e392ea58)
+![GPT+RPA](https://github.com/JSJeong-me/KOSA_GPT_RPA/assets/54794815/63322a37-3399-482f-883b-263a55538bba)
