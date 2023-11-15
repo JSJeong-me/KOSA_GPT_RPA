@@ -1,7 +1,7 @@
 # GPT와 RPA를 활용한 업무 자동화 과정
 
-### 강의교안:        https://zrr.kr/5Xrq
-### WorkSheet:        https://zrr.kr/147j
+### 강의교안:        https://zrr.kr/JSEw
+### WorkSheet:        https://zrr.kr/nztO
 
 `````
 □ 과정명 : GPT와 RPA를 활용한 업무 자동화 과정
