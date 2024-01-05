@@ -1,6 +1,6 @@
 # GPT와 RPA를 활용한 업무 자동화 과정
 
-### 강의교안:        https://zrr.kr/JSEw
+### [강의교안](https://drive.google.com/file/d/1lS1CMX7ZPymc1_nsvqAeIvLMf3m-jfhO/view?usp=sharing)
 ### WorkSheet:        https://zrr.kr/nztO
 
 `````
